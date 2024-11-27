@@ -10,3 +10,21 @@ background-position: 0 0;
     align-items: center;
 }
 
+.img-header {
+    height: 500px;
+}
+
+.img-qr {
+    height: 200px;
+}
+
+.qr-description {
+    font-size: 20px ;
+    background-color: cadetblue;
+    padding: 5px 20px;
+}
+
+.header-text {
+ background-color: blueviolet;
+ padding: 5px 20px;
+}
