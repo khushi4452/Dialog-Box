@@ -4,11 +4,7 @@ background-size: 30px 30px;
 background-position: 0 0;
 }
 
-.cotainer {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
+
 
 .img-header {
     height: 500px;
