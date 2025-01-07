@@ -6,37 +6,4 @@ background-position: 0 0;
 
 
 
-.img-header {
-    height: 500px;
-}
-
-.img-qr {
-    height: 200px;
-}
-
-.qr-description {
-    font-size: 20px ;
-    background-color: cadetblue;
-    padding: 5px 20px;
-}
-
-.header-text {
- background-color: blueviolet;
- padding: 5px 20px;
-}
-
-
-.overlay {
-    background-color:rgba(0,0,0,0.7);
-    position: fixed;
-    top: 0%;
-    left: 0%;
-    width: 100px;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center ;
-}
-
-
 
